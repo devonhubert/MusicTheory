@@ -1,6 +1,3 @@
-from tokenize import Double
-
-
 class Pitch():
 	def __init__(self, frequency) -> None:
 		self.frequency = frequency

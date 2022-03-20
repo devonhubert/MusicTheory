@@ -1,7 +1,10 @@
 README.md
 setup.py
 music_theory/__init__.py
+music_theory/keyboard.py
 music_theory/music_theory.py
+music_theory/note.py
+music_theory/pitch.py
 music_theory.egg-info/PKG-INFO
 music_theory.egg-info/SOURCES.txt
 music_theory.egg-info/dependency_links.txt
